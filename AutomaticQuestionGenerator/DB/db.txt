@@ -1,0 +1,444 @@
+
+Exhibit 10.1  REGISTRATION RIGHTS AGREEMENT  This REGISTRATION RIGHTS
+AGREEMENT dated November 30, 2009 (the “Agreement”) is entered into by and among Advanced Micro Devices, Inc., a Delaware corporation (the “Company”) and J.P. Morgan Securities Inc. (“JPMorgan”), as representative
+of the several Initial Purchasers listed on Schedule 1 hereto (the “Initial Purchasers”).  The Company and the
+Initial Purchasers are parties to the Purchase Agreement dated November 23, 2009 (the “Purchase Agreement”), which provides for the sale by the Company to the Initial Purchasers of $500,000,000 aggregate principal amount of the
+Company’s 8.125% Senior Notes due 2017 (the “Securities”). As an inducement to the Initial Purchasers to enter into the Purchase Agreement, the Company has agreed to provide to the Initial Purchasers and their direct and indirect
+transferees the registration rights set forth in this Agreement. The execution and delivery of this Agreement is a condition to the closing under the Purchase Agreement.  In consideration of the foregoing, the parties hereto agree as follows:  1.
+Definitions. As used in this Agreement, the following terms shall have the following meanings:  “Business Day” shall mean any day that is not a Saturday, Sunday or other day on which commercial banks in New York City are authorized or required by law to remain closed.  “Company” shall have the meaning set forth in the preamble and shall also include the Company’s successors.
+ “Exchange Act” shall mean the Securities Exchange Act of 1934, as amended from time to time.
+ “Exchange Dates” shall have the meaning set forth in Section 2(a)(ii) hereof.  “Exchange Offer” shall mean the exchange offer by the Company and any Guarantor of Exchange Securities for
+Registrable Securities pursuant to Section 2(a) hereof.  “Exchange Offer Registration” shall
+mean a registration under the Securities Act effected pursuant to Section 2(a) hereof.  “Exchange
+Offer Registration Statement” shall mean an exchange offer registration statement on Form S-4 (or, if applicable, on another appropriate form) and all amendments and supplements to such registration statement, in each case including the
+Prospectus contained therein or deemed a part thereof, all exhibits thereto and any document incorporated by reference therein.  “Exchange Securities” shall mean senior notes issued by the Company and guaranteed by any Guarantor under the Indenture containing terms identical to the Securities (except that the Exchange
+Securities will not be subject to restrictions on transfer or to any increase in annual interest rate for failure to comply with this Agreement) and to be offered to Holders of Securities in exchange for Securities pursuant to the Exchange Offer.
+
+
+
+“Free Writing Prospectus” means each free writing prospectus (as
+defined in Rule 405 under the Securities Act) prepared by or on behalf of the Company or used or referred to by the Company in connection with the sale of the Securities or the Exchange Securities.  “Guarantor” shall mean any subsidiary of the Company that provides a Subsidiary Guarantee under the Indenture after
+the date of this Agreement.  “Holders” shall mean the Initial Purchasers, for so long as they own any
+Registrable Securities, and each of their successors, assigns and direct and indirect transferees who become owners of Registrable Securities under the Indenture; provided that for purposes of Sections 4 and 5 of this Agreement, the term
+“Holders” shall include Participating Broker-Dealers.  “Indemnified Person” shall have the
+meaning set forth in Section 5(c) hereof.  “Indemnifying Person” shall have the meaning set
+forth in Section 5(c) hereof.  “Indenture” shall mean the Indenture relating to the Securities
+dated as of November 30, 2009 among the Company, the Guarantors from time to time party thereto and Wells Fargo Bank, National Association, as trustee, and as the same may be amended from time to time in accordance with the terms thereof.
+ “Initial Purchasers” shall have the meaning set forth in the preamble.  “Inspector” shall have the meaning set forth in Section 3(a)(xiii) hereof.  “Issue Date” shall mean November 30, 2009.  “Issuer Information” shall have the meaning set forth in Section 5(a) hereof.  “JPMorgan” shall have the meaning set forth in the preamble.  “Majority Holders” shall mean the Holders of a majority of the aggregate principal amount of the outstanding
+Registrable Securities; provided that whenever the consent or approval of Holders of a specified percentage of Registrable Securities is required hereunder, any Registrable Securities owned directly or indirectly by the Company or any of its
+affiliates shall not be counted in determining whether such consent or approval was given by the Holders of such required percentage or amount; and provided, further, that if the Company shall issue any additional Securities under the Indenture
+prior to consummation of the Exchange Offer or, if applicable, the effectiveness of any Shelf Registration Statement, such additional Securities and the Registrable Securities to which this Agreement relates shall be treated together as one class
+for purposes of determining whether the consent or approval of Holders of a specified percentage of Registrable Securities has been obtained.   
+-2- 
+
+
+“Participating Broker-Dealers” shall have the meaning set forth in
+Section 4(a) hereof.  “Person” shall mean an individual, partnership, limited liability company,
+corporation, trust or unincorporated organization, or a government or agency or political subdivision thereof.  “Prospectus” shall mean the prospectus included in, or, pursuant to the rules and regulations of the Securities Act, deemed a part of, a Registration Statement, including any preliminary prospectus, and any such prospectus as
+amended or supplemented by any prospectus supplement, including a prospectus supplement with respect to the terms of the offering of any portion of the Registrable Securities covered by a Shelf Registration Statement, and by all other amendments and
+supplements to such prospectus, and in each case including any document incorporated by reference therein.  “Purchase Agreement” shall have the meaning set forth in the preamble.  “Registrable
+Securities” shall mean the Securities; provided that the Securities shall cease to be Registrable Securities (i) when a Registration Statement with respect to such Securities has become effective under the Securities Act and such
+Securities have been exchanged or disposed of pursuant to such Registration Statement, (ii) the date that is two years from the Issue Date or (iii) when such Securities cease to be outstanding.  “Registration Expenses” shall mean any and all expenses incident to performance of or compliance by the Company and
+any Guarantor with this Agreement, including without limitation: (i) all SEC, stock exchange or Financial Industry Regulatory Authority, Inc. registration and filing fees, (ii) all fees and expenses incurred in connection with compliance
+with state securities or blue sky laws (including reasonable fees and disbursements of not more than one counsel for the Underwriters or Holders for each such jurisdiction in connection with blue sky qualification of any Exchange Securities or
+Registrable Securities), (iii) all expenses of any Persons in preparing or assisting in preparing, word processing, printing and distributing any Registration Statement, any Prospectus and any amendments or supplements thereto, any underwriting
+agreements, securities sales agreements or other similar agreements and any other documents relating to the performance of and compliance with this Agreement, (iv) all rating agency fees, (v) all fees and disbursements relating to the
+qualification of the Indenture under applicable securities laws, (vi) the fees and disbursements of the Trustee and its counsel, (vii) the fees and disbursements of counsel for the Company and any Guarantor and, in the case of a Shelf
+Registration Statement, the reasonable fees and disbursements of one counsel for the Holders (which counsel shall be selected by the Majority Holders and which counsel may also be counsel for the Initial Purchasers) and (viii) the fees and
+disbursements of the independent public accountants of the Company and any Guarantor including the expenses of any special audits or “comfort” letters required by or incident to the performance of and compliance with this Agreement, but
+excluding fees and expenses of counsel to the Underwriters (other than fees and expenses set forth in clause (ii) above) or the Holders and underwriting discounts and commissions, brokerage commissions and transfer taxes, if any, relating to
+the sale or disposition of Registrable Securities by a Holder.   
+-3- 
+
+
+“Registration Statement” shall mean any registration statement of
+the Company and any Guarantor that covers any of the Exchange Securities or Registrable Securities pursuant to the provisions of this Agreement and all amendments and supplements to any such registration statement, including post-effective
+amendments, in each case including the Prospectus contained therein or deemed a part thereof, all exhibits thereto and any document incorporated by reference therein.  “SEC” shall mean the United States Securities and Exchange Commission.  “Securities” shall have the meaning set forth in the preamble.  “Securities Act” shall mean the Securities Act of 1933, as amended from time to time.  “Shelf Additional Interest Date” shall have the meaning set forth in Section 2(d) hereof.  “Shelf Effectiveness Period” shall have the meaning set forth in Section 2(b) hereof.  “Shelf Registration” shall mean a registration effected pursuant to Section 2(b) hereof.  “Shelf Registration Statement” shall mean a “shelf” registration statement of the Company and any
+Guarantor that covers all or a portion of the Registrable Securities (but no other securities unless approved by a majority of the Holders whose Registrable Securities are to be covered by such Shelf Registration Statement) on an appropriate form
+under Rule 415 under the Securities Act, or any similar rule that may be adopted by the SEC, and all amendments and supplements to such registration statement, including post-effective amendments, in each case including the Prospectus contained
+therein or deemed a part thereof, all exhibits thereto and any document incorporated by reference therein.  “Shelf Request” shall have the meaning set forth in Section 2(b) hereof.  “Subsidiary Guarantees” shall mean the guarantees of the Securities and Exchange Securities by any Guarantor under and in accordance with the terms of the Indenture.  “Staff” shall mean the staff of the SEC.  “Target Registration Date” shall have the meaning set forth in Section 2(d) hereof.  “Trust Indenture Act” shall mean the Trust Indenture Act of 1939, as amended from time to time.  “Trustee” shall mean the trustee with respect to the Securities under the Indenture.   
+-4- 
+
+
+“Underwriter” shall have the meaning set forth in
+Section 3(e) hereof.  “Underwritten Offering” shall mean an offering in which Registrable
+Securities are sold to an Underwriter for reoffering to the public.  2. Registration Under the Securities Act.
+ (a) To the extent not prohibited by any applicable law or applicable interpretations of the Staff, the Company and any
+Guarantor shall (i) cause to be filed an Exchange Offer Registration Statement covering an offer to the Holders to exchange all the Registrable Securities for Exchange Securities, (ii) use their commercially reasonable efforts to cause
+such Registration Statement to become effective, (iii) commence the Exchange Offer promptly after the Exchange Offer Registration Statement is declared effective by the SEC and (iv) use their commercially reasonable efforts to complete the
+Exchange Offer not later than 270 days after the Issue Date. The Company and any Guarantor shall cause the Exchange Offer Registration Statement to be effective continuously and shall keep the Exchange Offer open for a period of not less than the
+minimum period required under applicable federal and state securities laws to consummate the Exchange Offer; provided, however, that in no event shall such period be less than 20 Business Days after the date notice of the Exchange Offer is
+mailed to the Holders.  The Company and any Guarantor shall commence the Exchange Offer by mailing the related Prospectus,
+appropriate letters of transmittal and other accompanying documents to each Holder stating, in addition to such other disclosures as are required by applicable law, substantially the following:  (i) that the Exchange Offer is being made pursuant to this Agreement and that all Registrable Securities validly tendered and
+not properly withdrawn will be accepted for exchange;  (ii) the dates of acceptance for exchange (which shall
+be a period of at least 20 Business Days from the date such notice is mailed) (the “Exchange Dates”);  (iii) that any Registrable Security not tendered will remain outstanding and continue to accrue interest but will not retain any rights under this Agreement, except as otherwise specified herein;  (iv) that any Holder electing to have a Registrable Security exchanged pursuant to the Exchange Offer will be required to
+(A) surrender such Registrable Security, together with the appropriate letters of transmittal, to the institution and at the address and in the manner specified in the notice, or (B) effect such exchange otherwise in compliance with the
+applicable procedures of the depositary for such Registrable Security, in each case prior to the close of business on the last Exchange Date; and  (v) that any Holder will be entitled to withdraw its election, not later than the close of business on the last Exchange Date, by (A) sending to the institution and at the address specified in the
+notice, a telegram, telex, facsimile transmission or letter setting forth the name of such Holder, the principal amount of Registrable Securities delivered
+  
+-5- 
+
+
+
+for exchange and a statement that such Holder is withdrawing its election to have such Securities exchanged or (B) effecting such withdrawal in compliance with the applicable procedures of
+the depositary for the Registrable Securities.  As a condition to participating in the Exchange Offer, a Holder will be
+required to represent to the Company and any Guarantor that (i) any Exchange Securities to be received by it will be acquired in the ordinary course of its business, (ii) at the time of the commencement of the Exchange Offer it has no
+arrangement or understanding with any Person to participate in the distribution (within the meaning of the Securities Act) of the Exchange Securities in violation of the provisions of the Securities Act, (iii) it is not an “affiliate”
+(within the meaning of Rule 405 promulgated under the Securities Act) of the Company or any Guarantor (iv) if such holder is not a broker-dealer, that it is not engaged in, and does not intend to engage in, the distribution of Exchange
+Securities and (v) if such Holder is a broker-dealer that will receive Exchange Securities for its own account in exchange for Registrable Securities that were acquired as a result of market-making or other trading activities, then such Holder
+will deliver a Prospectus (or, to the extent permitted by law, make available a Prospectus to purchasers) in connection with any resale of such Exchange Securities.  As soon as practicable after the last Exchange Date, the Company and any Guarantor shall:  (i) accept for exchange Registrable Securities or portions thereof validly tendered and not properly withdrawn pursuant to the Exchange Offer; and  (ii) deliver, or cause to be delivered, to the Trustee for cancellation all Registrable Securities or portions thereof so
+accepted for exchange by the Company and issue, and cause the Trustee to promptly authenticate and deliver to each Holder, Exchange Securities equal in principal amount to the principal amount of the Registrable Securities tendered by such Holder.
+ The Company and any Guarantor shall use their commercially reasonable efforts to complete the Exchange Offer as provided
+above and shall comply with the applicable requirements of the Securities Act, the Exchange Act and other applicable laws and regulations in connection with the Exchange Offer. The Exchange Offer shall not be subject to any conditions, other than
+that the Exchange Offer does not violate any applicable law or applicable interpretations of the Staff.  (b) In the event that
+(i) the Company and any Guarantor determine that the Exchange Offer Registration provided for in Section 2(a) above is not available or may not be completed as soon as reasonably practicable after the last Exchange Date because it would
+violate any applicable law or applicable interpretations of the Staff, (ii) the Exchange Offer is not for any other reason completed on or before the 270th day after the Issue Date (or if such 270th day is not a Business Day, the next
+succeeding Business Day) or (iii) upon receipt of a written request (a “Shelf Request”) from any Initial Purchaser representing that it holds Registrable Securities that are or were ineligible to be exchanged in the Exchange Offer,
+the Company and any Guarantor shall use their commercially reasonable efforts to cause to be filed as soon as practicable after such determination, date or Shelf Request, as the case may be, a Shelf Registration Statement providing for the sale of
+all the Registrable Securities by the Holders thereof and to have such Shelf Registration Statement become effective.   
+-6- 
+
+
+In the event that the Company and any Guarantor are required to file a Shelf Registration
+Statement pursuant to clause (iii) of the preceding sentence, the Company and any Guarantor shall use their reasonable best efforts to file and have become effective both an Exchange Offer Registration Statement pursuant to Section 2(a)
+with respect to all Registrable Securities and a Shelf Registration Statement (which may be a combined Registration Statement with the Exchange Offer Registration Statement) with respect to offers and sales of Registrable Securities held by the
+Initial Purchasers after completion of the Exchange Offer.  The Company and any Guarantor agree to use their commercially
+reasonable efforts to keep the Shelf Registration Statement continuously effective until the second anniversary of the Issue Date or such shorter period that will terminate when all the Registrable Securities covered by the Shelf Registration
+Statement have been sold pursuant to the Shelf Registration Statement (the “Shelf Effectiveness Period”). The Company and any Guarantor further agree to supplement or amend the Shelf Registration Statement and the related Prospectus if
+required by the rules, regulations or instructions applicable to the registration form used by the Company for such Shelf Registration Statement or by the Securities Act or by any other rules and regulations thereunder or if reasonably requested by
+a Holder of Registrable Securities with respect to information relating to such Holder, and to use their commercially reasonable efforts to cause any such amendment to become effective, if required, and such Shelf Registration Statement and
+Prospectus to become usable as soon as thereafter practicable. Upon the written request of Holders of Registrable Securities, the Company and any Guarantor agree to furnish to such Holders copies of any such supplement or amendment promptly after
+its being used or filed with the SEC.  (c) The Company and any Guarantor shall pay all Registration Expenses in connection
+with any registration pursuant to Section 2(a) or Section 2(b) hereof. Each Holder shall pay all underwriting discounts and commissions, brokerage commissions and transfer taxes, if any, relating to the sale or disposition of such
+Holder’s Registrable Securities pursuant to the Shelf Registration Statement.  (d) An Exchange Offer Registration
+Statement pursuant to Section 2(a) hereof will not be deemed to have become effective unless it has been declared effective by the SEC. A Shelf Registration Statement pursuant to Section 2(b) hereof will not be deemed to have become
+effective unless it has been declared effective by the SEC or is automatically effective upon filing with the SEC as provided by Rule 462 under the Securities Act.  In the event that either the Exchange Offer is not completed or the Shelf Registration Statement, if required pursuant to Section 2(b)(i) or 2(b)(ii) hereof, has not become effective on or prior to
+the 270th day after the Issue Date (the “Target Registration Date”), the interest rate on the Registrable Securities will be increased by (i) 0.25% per annum for the first 90-day period immediately following the Target
+Registration Date and (ii) an additional 0.25% per annum with respect to each subsequent 90-day period, in each case until the Exchange Offer is completed or the Shelf Registration Statement, if required hereby, becomes effective, up to a
+maximum increase of 1.00% per annum. Following the cure of all Registration Defaults relating to any
+  
+-7- 
+
+
+
+particular Registrable Securities, the interest rate borne by the relevant Registrable Securities will be reduced to the original interest rate borne by such Registrable Securities; provided,
+however, that, if after any such reduction in interest rate, a different Registration Default occurs, the interest rate borne by the relevant Registrable Securities shall again be increased pursuant to the foregoing provisions.  In the event that the Company receives a Shelf Request pursuant to Section 2(b)(iii), and the Shelf Registration Statement required to
+be filed thereby has not become effective by the later of the Target Registration Date and (y) 90 days after delivery of such Shelf Request (such later date, the “Shelf Additional Interest Date”), then the interest rate on the
+Registrable Securities will be increased by (i) 0.25% per annum for the first 90-day period payable commencing from one day after the Shelf Additional Interest Date and (ii) an additional 0.25% per annum with respect to each
+subsequent 90-day period, in each case until the Shelf Registration Statement becomes effective, up to a maximum increase of 1.00% per annum.  If the Shelf Registration Statement, if required hereby, has become effective and thereafter either ceases to be effective or the Prospectus contained therein ceases to be usable, in each case whether or
+not permitted by this Agreement, at any time during the Shelf Effectiveness Period, and such failure to remain effective or usable exists for more than 60 days (whether or not consecutive), then the interest rate on the Registrable Securities will
+be increased by (i) 0.25% per annum for the first 90-day period commencing on the 61st day after such Shelf Registration Statement cease to be effective or the Prospectus ceases to be useable and (ii) an additional 0.25% per
+annum with respect to each subsequent 90-day period, up to a maximum increase of 1.00% per annum, in each case until and ending on such date that the Shelf Registration Statement has again become effective or the Prospectus again becomes
+usable.  (e) Without limiting the remedies available to the Initial Purchasers and the Holders, the Company and any Guarantor
+acknowledge that any failure by the Company or any Guarantor to comply with their obligations under Section 2(a) and Section 2(b) hereof may result in material irreparable injury to the Initial Purchasers or the Holders for which there is
+no adequate remedy at law, that it will not be possible to measure damages for such injuries precisely and that, in the event of any such failure, the Initial Purchasers or any Holder may obtain such relief as may be required to specifically enforce
+the Company’s and any Guarantor’s obligations under Section 2(a) and Section 2(b) hereof.  (f) The Company
+represents, warrants and covenants that it (including its agents and representatives) will not prepare, make, use, authorize, approve or refer to any Free Writing Prospectus.  3. Registration Procedures.  (a) In connection with their obligations pursuant to Section 2(a) and Section 2(b) hereof, the Company and any Guarantor shall as expeditiously as possible:  (i) prepare and file with the SEC a Registration Statement on the appropriate form under the Securities Act, which form
+(x) shall be selected by the Company and any Guarantor (y) shall, in the case of a Shelf Registration, be available for the sale of the
+  
+-8- 
+
+
+
+Registrable Securities by the Holders thereof and (z) shall comply as to form in all material respects with the requirements of the applicable form and include all financial statements
+required by the SEC to be filed therewith; and use their commercially reasonable efforts to cause such Registration Statement to become effective and remain effective for the applicable period in accordance with Section 2 hereof;  (ii) prepare and file with the SEC such amendments and post-effective amendments to each Registration Statement as may be
+necessary to keep such Registration Statement effective for the applicable period in accordance with Section 2 hereof and cause each Prospectus to be supplemented by any required prospectus supplement and, as so supplemented, to be filed
+pursuant to Rule 424 under the Securities Act; and keep each Prospectus current during the period described in Section 4(3) of and Rule 174 under the Securities Act that is applicable to transactions by brokers or dealers with respect to the
+Registrable Securities or Exchange Securities;  (iii) in the case of a Shelf Registration, furnish to each
+Holder of Registrable Securities, to counsel for the Initial Purchasers, to counsel for such Holders and to each Underwriter of an Underwritten Offering of Registrable Securities, if any, without charge, as many copies of each Prospectus or
+preliminary prospectus, and any amendment or supplement thereto, as such Holder, counsel or Underwriter may reasonably request in order to facilitate the sale or other disposition of the Registrable Securities thereunder; and the Company and any
+Guarantor consent to the use of such Prospectus, preliminary prospectus and any amendment or supplement thereto in accordance with applicable law by each of the Holders of Registrable Securities and any such Underwriters in connection with the
+offering and sale of the Registrable Securities covered by and in the manner described in such Prospectus, preliminary prospectus or any amendment or supplement thereto in accordance with applicable law;  (iv) use their commercially reasonable efforts to register or qualify the Registrable Securities under all applicable state
+securities or blue sky laws of such jurisdictions as any Holder of Registrable Securities covered by a Registration Statement shall reasonably request in writing by the time the applicable Registration Statement becomes effective; cooperate with
+such Holders in connection with any filings required to be made with the Financial Industry Regulatory Authority, Inc.; and do any and all other acts and things that may be reasonably necessary or advisable to enable each Holder to complete the
+disposition in each such jurisdiction of the Registrable Securities owned by such Holder; provided that neither the Company nor any Guarantor shall be required to (1) qualify as a foreign corporation or other entity or as a dealer in
+securities in any such jurisdiction where it would not otherwise be required to so qualify, (2) file any general consent to service of process in any such jurisdiction or (3) subject itself to taxation in any such jurisdiction if it is not
+so subject;  (v) notify counsel for the Initial Purchasers and, in the case of a Shelf Registration, notify
+each Holder of Registrable Securities and counsel for such Holders promptly and, if requested by any such Holder or counsel, confirm such advice in writing (1) when a Registration Statement has become effective, when any post-effective
+amendment thereto has been filed and becomes effective and when any amendment or
+  
+-9- 
+
+
+
+supplement to the Prospectus has been filed, (2) of any request by the SEC or any state securities authority for amendments and supplements to a Registration Statement or Prospectus or for
+additional information after the Registration Statement has become effective, (3) of the issuance by the SEC or any state securities authority of any stop order suspending the effectiveness of a Registration Statement or the initiation of any
+proceedings for that purpose, including the receipt by the Company of any notice of objection of the SEC to the use of a Shelf Registration Statement or any post-effective amendment thereto pursuant to Rule 401(g)(2) under the Securities Act,
+(4) if, between the applicable effective date of a Shelf Registration Statement and the closing of any sale of Registrable Securities covered thereby, the representations and warranties of the Company or any Guarantor contained in any
+underwriting agreement, securities sales agreement or other similar agreement, if any, relating to an offering of such Registrable Securities cease to be true and correct in all material respects or if the Company or any Guarantor receives any
+notification with respect to the suspension of the qualification of the Registrable Securities for sale in any jurisdiction or the initiation of any proceeding for such purpose, (5) of the happening of any event during the period a Registration
+Statement is effective that makes any statement made in such Registration Statement or the related Prospectus untrue in any material respect or that requires the making of any changes in such Registration Statement or Prospectus in order to make the
+statements therein not misleading and (6) of any determination by the Company or any Guarantor that a post-effective amendment to a Registration Statement or any amendment or supplement to the Prospectus would be appropriate;  (vi) use their commercially reasonable efforts to obtain the withdrawal of any order suspending the effectiveness of a
+Registration Statement or, in the case of a Shelf Registration, the resolution of any objection of the SEC pursuant to Rule 401(g)(2), including by filing an amendment to such Shelf Registration Statement on the proper form, at the earliest
+practicable date and provide prompt notice to each Holder of the withdrawal of any such order or such resolution;  (vii) in the case of a Shelf Registration, upon the written request of Holders of Registrable Securities, furnish to such Holders, without charge, at least one conformed copy of each Registration Statement and any post-effective amendment
+thereto (without any documents incorporated therein by reference or exhibits thereto, unless requested);  (viii) in the case of a Shelf Registration, unless any Registrable Securities shall be in book-entry only form, cooperate with the Holders of Registrable Securities to facilitate the timely preparation and delivery of certificates
+representing Registrable Securities to be sold and not bearing any restrictive legends and enable such Registrable Securities to be issued in such denominations and registered in such names (consistent with the provisions of the Indenture) as such
+Holders may reasonably request at least two Business Days prior to the closing of any sale of Registrable Securities;  (ix) in the case of a Shelf Registration, upon the occurrence of any event contemplated by Section 3(a)(v)(5) hereof, use their commercially reasonable efforts to prepare and file with the SEC a supplement or post-effective amendment
+to such Shelf Registration Statement or the related Prospectus or any document incorporated therein by
+  
+-10- 
+
+
+
+reference or file any other required document so that, as thereafter delivered (or, to the extent permitted by law, made available) to purchasers of the Registrable Securities, such Prospectus
+will not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements therein, in the light of the circumstances under which they were made, not misleading; and the Company and any Guarantor shall
+notify the Holders of Registrable Securities to suspend use of the Prospectus as promptly as practicable after the occurrence of such an event, and such Holders hereby agree to suspend use of the Prospectus until the Company and any Guarantor have
+amended or supplemented the Prospectus to correct such misstatement or omission;  (x) a reasonable time prior
+to the filing of any Registration Statement, any Prospectus, any amendment to a Registration Statement or amendment or supplement to a Prospectus after initial filing of a Registration Statement, provide copies of such document to the Initial
+Purchasers and their counsel (and, in the case of a Shelf Registration Statement, to the Holders of Registrable Securities and their counsel) and make such of the representatives of the Company and any Guarantor as shall be reasonably requested by
+the Initial Purchasers or their counsel (and, in the case of a Shelf Registration Statement, the Holders of Registrable Securities or their counsel) available for discussion of such document; and the Company and any Guarantor shall not, at any time
+after initial filing of a Registration Statement, use or file any Prospectus, any amendment of or supplement to a Registration Statement or a Prospectus, of which the Initial Purchasers and their counsel (and, in the case of a Shelf Registration
+Statement, the Holders of Registrable Securities and their counsel) shall not have previously been advised and furnished a copy or to which the Initial Purchasers or their counsel (and, in the case of a Shelf Registration Statement, the Holders of
+Registrable Securities or their counsel) shall object; provided that the immediately foregoing sentence shall not prohibit the Company from making any filing that is, in the opinion of counsel to the Company, necessary to comply with
+applicable law;  (xi) obtain a CUSIP number for all Exchange Securities or Registrable Securities, as the case
+may be, not later than the initial effective date of a Registration Statement;  (xii) cause the Indenture to be
+qualified under the Trust Indenture Act in connection with the registration of the Exchange Securities or Registrable Securities, as the case may be; cooperate with the Trustee and the Holders to effect such changes to the Indenture as may be
+required for the Indenture to be so qualified in accordance with the terms of the Trust Indenture Act; and execute, and use their commercially reasonable efforts to cause the Trustee to execute, all documents as may be required to effect such
+changes and all other forms and documents required to be filed with the SEC to enable the Indenture to be so qualified in a timely manner;  (xiii) in the case of a Shelf Registration, make available for inspection by a representative of the Holders of the Registrable Securities (an “Inspector”), any Underwriter participating in any
+disposition pursuant to such Shelf Registration Statement, any attorneys and accountants designated by a majority of the Holders of Registrable Securities to be included in such Shelf Registration and any attorneys and accountants designated by
+  
+-11- 
+
+
+
+such Underwriter, at reasonable times and in a reasonable manner, all pertinent financial and other records, documents and properties of the Company and its subsidiaries, and cause the respective
+officers, directors and employees of the Company and any Guarantor to supply all information reasonably requested by any such Inspector, Underwriter, attorney or accountant in connection with a Shelf Registration Statement; provided that if
+any such information is identified by the Company or any Guarantor as being confidential or proprietary, each Person shall be entitled to receive such information only after entering into a non-disclosure agreement in a form acceptable to the
+Company;  (xiv) if reasonably requested by any Holder of Registrable Securities covered by a Shelf Registration
+Statement, promptly include in a Prospectus supplement or post-effective amendment such information with respect to such Holder as such Holder reasonably requests to be included therein and make all required filings of such Prospectus supplement or
+such post-effective amendment promptly after the Company has received notification of the matters to be so included in such filing, and in any event within 30 days of the Company’s receipt of such notification;   (xv) in the case of a Shelf Registration, enter into such customary agreements and take all such other reasonable actions in
+connection therewith (including those reasonably requested by the Holders of a majority in principal amount of the Registrable Securities covered by the Shelf Registration Statement) in order to expedite or facilitate the disposition of such
+Registrable Securities including, but not limited to, an Underwritten Offering and in such connection, (1) to the extent possible, make such representations and warranties to the Holders and any Underwriters of such Registrable Securities with
+respect to the business of the Company and its subsidiaries and the Registration Statement, Prospectus and documents incorporated by reference or deemed incorporated by reference, if any, in each case, in form, substance and scope as are customarily
+made by issuers to underwriters in underwritten offerings and confirm the same if and when requested, (2) use commercially reasonable efforts to obtain opinions of counsel to the Company and any Guarantor (which counsel and opinions, in form,
+scope and substance, shall be reasonably satisfactory to the Holders and such Underwriters and their respective counsel), addressed to each selling Holder and Underwriter of Registrable Securities, covering the matters customarily covered in
+opinions requested in underwritten offerings, (3) use commercially reasonable efforts to obtain “comfort” letters from the independent certified public accountants of the Company and any Guarantor (and, if necessary, any other
+certified public accountant of any subsidiary of the Company or any Guarantor, or of any business acquired by the Company or any Guarantor for which financial statements and financial data are or are required to be included in the Registration
+Statement) addressed to each selling Holder (to the extent permitted by applicable professional standards) and Underwriter of Registrable Securities, such letters to be in customary form and covering matters of the type customarily covered in
+“comfort” letters in connection with underwritten offerings, including but not limited to financial information contained in any preliminary prospectus or Prospectus and (4) deliver such documents and certificates as may be reasonably
+requested by the Holders of a majority in principal amount of the Registrable Securities being sold or the Underwriters, and which are customarily delivered in underwritten offerings, to evidence the continued validity of the representations and
+warranties of the Company and any Guarantor made pursuant to clause (1) above and to evidence compliance with any customary conditions contained in an underwriting agreement; and   
+-12- 
+
+
+(xvi) so long as any Registrable Securities remain outstanding, cause each
+Guarantor to execute a counterpart to this Agreement in the form attached hereto as Annex A and to deliver such counterpart to the Initial Purchasers no later than five Business Days following the execution thereof.  (b) In the case of a Shelf Registration Statement, the Company may require each Holder of Registrable Securities to furnish to the Company
+such information regarding such Holder and the proposed disposition by such Holder of such Registrable Securities as the Company and any Guarantor may from time to time reasonably request in writing.  (c) In the case of a Shelf Registration Statement, each Holder of Registrable Securities covered in such Shelf Registration Statement agrees
+that, upon receipt of any notice from the Company and any Guarantor of the happening of any event of the kind described in Section 3(a)(v)(3) or 3(a)(v)(5) hereof, such Holder will forthwith discontinue disposition of Registrable Securities
+pursuant to the Shelf Registration Statement until such Holder’s receipt of the copies of the supplemented or amended Prospectus contemplated by Section 3(a)(ix) hereof and, if so directed by the Company and any Guarantor such Holder will
+deliver to the Company and any Guarantor all copies in its possession, other than permanent file copies then in such Holder’s possession, of the Prospectus covering such Registrable Securities that is current at the time of receipt of such
+notice.  (d) If the Company and any Guarantor shall give any notice to suspend the disposition of Registrable Securities
+pursuant to a Registration Statement, the Company and any Guarantor shall extend the period during which such Registration Statement shall be maintained effective pursuant to this Agreement by the number of days during the period from and including
+the date of the giving of such notice to and including the date when the Holders of such Registrable Securities shall have received copies of the supplemented or amended Prospectus necessary to resume such dispositions. Such suspensions shall not
+exceed 45 days in any three-month period or 90 days in any twelve-month period.  (e) The Holders of Registrable Securities
+covered by a Shelf Registration Statement who desire to do so may sell such Registrable Securities in an Underwritten Offering. In any such Underwritten Offering, the investment bank or investment banks and manager or managers (each an
+“Underwriter”) that will administer the offering will be selected by the Holders of a majority in principal amount of the Registrable Securities included in such offering.  4. Participation of Broker-Dealers in Exchange Offer.  (a) The Staff has taken the position that any broker-dealer that receives Exchange Securities for its own account in the Exchange Offer in exchange for Securities that were acquired by such broker-dealer
+as a result of market-making or other trading activities (a “Participating Broker-Dealer”) may be deemed to be an “underwriter” within the meaning of the Securities Act and must deliver a prospectus meeting the requirements of
+the Securities Act in connection with any resale of such Exchange Securities.   
+-13- 
+
+
+The Company and any Guarantor understand that it is the Staff’s position that if the
+Prospectus contained in the Exchange Offer Registration Statement includes a plan of distribution containing a statement to the above effect and the means by which Participating Broker-Dealers may resell the Exchange Securities, without naming the
+Participating Broker-Dealers or specifying the amount of Exchange Securities owned by them, such Prospectus may be delivered by Participating Broker-Dealers (or, to the extent permitted by law, made available to purchasers) to satisfy their
+prospectus delivery obligation under the Securities Act in connection with resales of Exchange Securities for their own accounts, so long as the Prospectus otherwise meets the requirements of the Securities Act.  (b) In light of the above, and notwithstanding the other provisions of this Agreement, the Company and any Guarantor agree to amend or
+supplement the Prospectus contained in the Exchange Offer Registration Statement for a period of up to 180 days after the last Exchange Date (as such period may be extended pursuant to Section 3(d) of this Agreement), in order to expedite or
+facilitate the disposition of any Exchange Securities by Participating Broker-Dealers consistent with the positions of the Staff recited in Section 4(a) above. The Company and any Guarantor further agree that Participating Broker-Dealers shall
+be authorized to deliver such Prospectus (or, to the extent permitted by law, make available) during such period in connection with the resales contemplated by this Section 4.  (c) The Initial Purchasers shall have no liability to the Company, any Guarantor or any Holder with respect to any request that they may
+make pursuant to Section 4(b) above.  5. Indemnification and Contribution.  (a) The Company and any Guarantor, jointly and severally, agree to indemnify and hold harmless each Initial Purchaser and each Holder, their
+respective affiliates, directors and officers and each Person, if any, who controls any Initial Purchaser or any Holder within the meaning of Section 15 of the Securities Act or Section 20 of the Exchange Act, from and against any and all
+losses, claims, damages and liabilities (including, without limitation, legal fees and other expenses incurred in connection with any suit, action or proceeding or any claim asserted, as such fees and expenses are incurred promptly following receipt
+of a request therefor), joint or several, that arise out of, or are based upon, (1) any untrue statement or alleged untrue statement of a material fact contained in any Registration Statement or any omission or alleged omission to state therein
+a material fact required to be stated therein or necessary in order to make the statements therein not misleading, or (2) any untrue statement or alleged untrue statement of a material fact contained in any Prospectus, any Free Writing
+Prospectus used in violation of this Agreement or any “issuer information” (“Issuer Information”) filed or required to be filed pursuant to Rule 433(d) under the Securities Act, or any omission or alleged omission to state
+therein a material fact necessary in order to make the statements therein, in the light of the circumstances under which they were made, not misleading, in each case except insofar as such losses, claims, damages or liabilities arise out of, or are
+based upon, any untrue statement or omission or alleged untrue statement or omission made in reliance upon and in conformity with any information relating to any Initial Purchaser or information relating to any Holder furnished to the Company in
+writing through JPMorgan or any selling Holder, respectively expressly for use therein. In connection with any Underwritten Offering permitted by Section 3, the Company and any
+  
+-14- 
+
+
+
+Guarantor, jointly and severally, will also indemnify the Underwriters, if any, selling brokers, dealers and similar securities industry professionals participating in the distribution, their
+respective affiliates and each Person who controls such Persons (within the meaning of the Securities Act and the Exchange Act) to the same extent as provided above with respect to the indemnification of the Holders, if requested in connection with
+any Registration Statement, any Prospectus, any Free Writing Prospectus or any Issuer Information.  (b) Each Holder agrees,
+severally and not jointly, to indemnify and hold harmless the Company, any Guarantor the Initial Purchasers and the other selling Holders, the directors of the Company and any Guarantor, each officer of the Company and any Guarantor who signed the
+Registration Statement and each Person, if any, who controls the Company, any Guarantor, any Initial Purchaser and any other selling Holder within the meaning of Section 15 of the Securities Act or Section 20 of the Exchange Act to the
+same extent as the indemnity set forth in paragraph (a) above, but only with respect to any losses, claims, damages or liabilities that arise out of, or are based upon, any untrue statement or omission or alleged untrue statement or omission
+made in reliance upon and in conformity with any information relating to such Holder furnished to the Company in writing by such Holder expressly for use in any Registration Statement and any Prospectus.  (c) If any suit, action, proceeding (including any governmental or regulatory investigation), claim or demand shall be brought or asserted
+against any Person in respect of which indemnification may be sought pursuant to either paragraph (a) or (b) above, such Person (the “Indemnified Person”) shall promptly notify the Person against whom such indemnification may be
+sought (the “Indemnifying Person”) in writing; provided that the failure to notify the Indemnifying Person shall not relieve it from any liability that it may have under this Section 5 except to the extent that it has been
+materially prejudiced (through the forfeiture of substantive rights or defenses) by such failure; and provided, further, that the failure to notify the Indemnifying Person shall not relieve it from any liability that it may have to an
+Indemnified Person otherwise than under this Section 5. If any such proceeding shall be brought or asserted against an Indemnified Person and it shall have notified the Indemnifying Person thereof, the Indemnifying Person shall retain counsel
+reasonably satisfactory to the Indemnified Person to represent the Indemnified Person and any others entitled to indemnification pursuant to this Section 5 that the Indemnifying Person may designate in such proceeding and shall pay the fees and
+expenses of such proceeding and shall pay the fees and expenses of such counsel related to such proceeding, as incurred. In any such proceeding, any Indemnified Person shall have the right to retain its own counsel, but the fees and expenses of such
+counsel shall be at the expense of such Indemnified Person unless (i) the Indemnifying Person and the Indemnified Person shall have mutually agreed to the contrary; (ii) the Indemnifying Person has failed within a reasonable time to retain
+counsel reasonably satisfactory to the Indemnified Person; (iii) the Indemnified Person shall have reasonably concluded that there may be legal defenses available to it that are different from or in addition to those available to the
+Indemnifying Person; or (iv) the named parties in any such proceeding (including any impleaded parties) include both the Indemnifying Person and the Indemnified Person and representation of both parties by the same counsel would be
+inappropriate due to actual or potential differing interests between them. It is understood and agreed that the Indemnifying Person shall not, in connection with any proceeding or related proceeding in the same jurisdiction, be liable for the fees
+and expenses of more than one separate firm (in addition to any local counsel) for all Indemnified Persons, and that all such fees and expenses shall be reimbursed as
+  
+-15- 
+
+
+
+they are incurred. Any such separate firm (x) for any Initial Purchaser, its affiliates, directors and officers and any control Persons of such Initial Purchaser shall be designated in
+writing by JPMorgan, (y) for any Holder, its directors and officers and any control Persons of such Holder shall be designated in writing by the Majority Holders and (z) in all other cases shall be designated in writing by the Company. The
+Indemnifying Person shall not be liable for any settlement of any proceeding effected without its written consent, but if settled with such consent or if there be a final judgment for the plaintiff, the Indemnifying Person agrees to indemnify each
+Indemnified Person from and against any loss or liability by reason of such settlement or judgment. Notwithstanding the foregoing sentence, if at any time an Indemnified Person shall have requested that an Indemnifying Person reimburse the
+Indemnified Person for fees and expenses of counsel as contemplated by this paragraph, the Indemnifying Person shall be liable for any settlement of any proceeding effected without its written consent if (i) such settlement is entered into more
+than 30 days after receipt by the Indemnifying Person of such request and (ii) the Indemnifying Person shall not have reimbursed the Indemnified Person in accordance with such request prior to the date of such settlement. No Indemnifying Person
+shall, without the written consent of the Indemnified Person, effect any settlement of any pending or threatened proceeding in respect of which any Indemnified Person is or could have been a party and indemnification could have been sought hereunder
+by such Indemnified Person, unless such settlement (A) includes an unconditional release of such Indemnified Person, in form and substance reasonably satisfactory to such Indemnified Person, from all liability on claims that are the subject
+matter of such proceeding and (B) does not include any statement as to or any admission of fault, culpability or a failure to act by or on behalf of any Indemnified Person.  (d) To the extent the indemnification provided for in paragraphs (a) and (b) above is unavailable to an Indemnified Person or
+insufficient in respect of any losses, claims, damages or liabilities referred to therein, then each Indemnifying Person under such paragraph, in lieu of indemnifying such Indemnified Person thereunder, shall contribute to the amount paid or payable
+by such Indemnified Person as a result of such losses, claims, damages or liabilities (i) in such proportion as is appropriate to reflect the relative benefits received by the Company and any Guarantor from the offering of the Securities and
+the Exchange Securities, on the one hand, and by the Holders from receiving Securities or Exchange Securities registered under the Securities Act, on the other hand, or (ii) if the allocation provided by clause (i) is not permitted by
+applicable law, in such proportion as is appropriate to reflect not only the relative benefits referred to in clause (i) but also the relative fault of the Company and any Guarantor on the one hand and the Holders on the other in connection
+with the statements or omissions that resulted in such losses, claims, damages or liabilities, as well as any other relevant equitable considerations. The relative fault of the Company and any Guarantor on the one hand and the Holders on the other
+shall be determined by reference to, among other things, whether the untrue or alleged untrue statement of a material fact or the omission or alleged omission to state a material fact relates to information supplied by the Company and any Guarantor
+or by the Holders and the parties’ relative intent, knowledge, access to information and opportunity to correct or prevent such statement or omission.  (e) The Company, any Guarantor and the Holders agree that it would not be just and equitable if contribution pursuant to this Section 5 were determined by pro rata allocation (even if the
+Holders were treated as one entity for such purpose) or by any other method of allocation that does not take account of the equitable considerations referred to in paragraph (d)
+  
+-16- 
+
+
+
+above. The amount paid or payable by an Indemnified Person as a result of the losses, claims, damages and liabilities referred to in paragraph (d) above shall be deemed to include, subject
+to the limitations set forth above, any legal or other expenses reasonably incurred by such Indemnified Person in connection with any such action or claim. Notwithstanding the provisions of this Section 5, in no event shall a Holder be required
+to contribute any amount in excess of the amount by which the total price at which the Securities or Exchange Securities sold by such Holder exceeds the amount of any damages that such Holder has otherwise been required to pay by reason of such
+untrue or alleged untrue statement or omission or alleged omission. No Person guilty of fraudulent misrepresentation (within the meaning of Section 11(f) of the Securities Act) shall be entitled to contribution from any Person who was not
+guilty of such fraudulent misrepresentation. The Holders’ obligations to contribute pursuant to this Section 5 are several and not joint.  (f) The remedies provided for in this Section 5 are not exclusive and shall not limit any rights or remedies that may otherwise be available to any Indemnified Person at law or in equity. 
+(g) The indemnity and contribution provisions contained in this Section 5 shall remain operative and in full force and effect
+regardless of (i) any termination of this Agreement, (ii) any investigation made by or on behalf of the Initial Purchasers or any Holder or any Person controlling any Initial Purchaser or any Holder, or by or on behalf of the Company or
+any Guarantor or the officers or directors of or any Person controlling the Company or any Guarantor, (iii) acceptance of any of the Exchange Securities and (iv) any sale of Registrable Securities pursuant to a Shelf Registration
+Statement.  6. General.  (a) No Inconsistent Agreements. The Company and any Guarantor represent, warrant and agree that (i) the rights granted to the Holders hereunder do not in any way conflict with and are not
+inconsistent with the rights granted to the holders of any other outstanding securities issued or guaranteed by the Company or any Guarantor under any other agreement and (ii) neither the Company nor any Guarantor has entered into, or on or
+after the date of this Agreement will enter into, any agreement that is inconsistent with the rights granted to the Holders of Registrable Securities in this Agreement or otherwise conflicts with the provisions hereof.  (b) Amendments and Waivers. The provisions of this Agreement, including the provisions of this sentence, may not be amended, modified
+or supplemented, and waivers or consents to departures from the provisions hereof may not be given unless the Company and any Guarantor have obtained the written consent of Holders of at least a majority in aggregate principal amount of the
+outstanding Registrable Securities affected by such amendment, modification, supplement, waiver or consent; provided that no amendment, modification, supplement, waiver or consent to any departure from the provisions of Section 5 hereof
+shall be effective as against any Holder of Registrable Securities unless consented to in writing by such Holder. Notwithstanding the foregoing, a waiver or consent to departure from the provisions hereof with respect to a matter that relates
+exclusively to the rights of Holders whose Registrable Securities are being tendered pursuant to the Exchange Offer, and that does not affect directly or indirectly the rights of other Holders whose Registrable Securities are not being tendered
+pursuant to such
+  
+-17- 
+
+
+
+Exchange Offer, may be given by the Holders of a majority of the outstanding principal amount of Registrable Securities subject to such Exchange Offer. Any amendments, modifications, supplements,
+waivers or consents pursuant to this Section 6(b) shall be by a writing executed by each of the parties hereto.  (c)
+Notices. All notices and other communications provided for or permitted hereunder shall be made in writing by hand-delivery, registered first-class mail, telex, telecopier, or any courier guaranteeing overnight delivery (i) if to a
+Holder, at the most current address given by such Holder to the Company by means of a notice given in accordance with the provisions of this Section 6(c), which address initially is, with respect to the Initial Purchasers, the address set forth
+in the Purchase Agreement; (ii) if to the Company and any Guarantor, initially at the Company’s address set forth in the Purchase Agreement and thereafter at such other address, notice of which is given in accordance with the provisions of
+this Section 6(c); and (iii) to such other persons at their respective addresses as provided in the Purchase Agreement and thereafter at such other address, notice of which is given in accordance with the provisions of this
+Section 6(c). All such notices and communications shall be deemed to have been duly given: at the time delivered by hand, if personally delivered; five Business Days after being deposited in the mail, postage prepaid, if mailed; when answered
+back, if telexed; when receipt is acknowledged, if telecopied; and on the next Business Day if timely delivered to an air courier guaranteeing overnight delivery. Copies of all such notices, demands or other communications shall be concurrently
+delivered by the Person giving the same to the Trustee, at the address specified in the Indenture.  (d) Successors and
+Assigns. This Agreement shall inure to the benefit of and be binding upon the successors, assigns and transferees of each of the parties, including, without limitation and without the need for an express assignment, subsequent Holders;
+provided that nothing herein shall be deemed to permit any assignment, transfer or other disposition of Registrable Securities in violation of the terms of the Purchase Agreement or the Indenture. If any transferee of any Holder shall acquire
+Registrable Securities in any manner, whether by operation of law or otherwise, such Registrable Securities shall be held subject to all the terms of this Agreement, and by taking and holding such Registrable Securities such Person shall be
+conclusively deemed to have agreed to be bound by and to perform all of the terms and provisions of this Agreement and such Person shall be entitled to receive the benefits hereof. The Initial Purchasers (in their capacity as Initial Purchasers)
+shall have no liability or obligation to the Company or any Guarantor with respect to any failure by a Holder to comply with, or any breach by any Holder of, any of the obligations of such Holder under this Agreement.  (e) Third Party Beneficiaries. Each Holder shall be a third party beneficiary to the agreements made hereunder between the Company
+and any Guarantor, on the one hand, and the Initial Purchasers, on the other hand, and shall have the right to enforce such agreements directly to the extent it deems such enforcement necessary or advisable to protect its rights or the rights of
+other Holders hereunder.  (f) Counterparts. This Agreement may be executed in any number of counterparts and by the
+parties hereto in separate counterparts, each of which when so executed shall be deemed to be an original and all of which taken together shall constitute one and the same agreement.   
+-18- 
+
+
+(g) Headings. The headings in this Agreement are for convenience of reference only,
+are not a part of this Agreement and shall not limit or otherwise affect the meaning hereof.  (h) Governing Law. This
+Agreement, and any claim, controversy or dispute arising under or related to this Agreement, shall be governed by and construed in accordance with the laws of the State of New York without regard to conflict of law principles that would result in
+the application of any laws other than the laws of the State of New York.  (j) Entire Agreement; Severability. This
+Agreement contains the entire agreement between the parties relating to the subject matter hereof and supersedes all oral statements and prior writings with respect thereto. If any term, provision, covenant or restriction contained in this Agreement
+is held by a court of competent jurisdiction to be invalid, void or unenforceable or against public policy, the remainder of the terms, provisions, covenants and restrictions contained herein shall remain in full force and effect and shall in no way
+be affected, impaired or invalidated. The Company, any Guarantor and the Initial Purchasers shall endeavor in good faith negotiations to replace the invalid, void or unenforceable provisions with valid provisions the economic effect of which becomes
+as close as possible to that of the invalid, void or unenforceable provisions.   
+-19- 
+
+
+IN WITNESS WHEREOF, the parties have executed this Agreement as of the date first written
+above.   
+
+
+
+
+
+
+ADVANCED MICRO DEVICES, INC.
+
+
+
+
+By:
+ 
+ /s/ Thomas Seifert
+
+Name: Title:
+ 
+ Thomas Seifert Senior Vice
+President and Chief Financial Officer
+ Confirmed and accepted as of the date first above written:   
+
+
+
+
+
+
+J.P. MORGAN SECURITIES INC.
+
+
+
+For itself and on behalf of the several Initial Purchasers
+
+
+
+
+By
+ 
+ /s/ Rajesh Kapadia
+
+
+ 
+Authorized Signatory
+
+
+ 
+Rajesh Kapadia
+
+
+ 
+Managing Director
+  
+-20- 
+
+
+Schedule 1  Initial Purchasers  J.P. Morgan Securities Inc.  Citadel Securities LLC 
+
+
+Annex A  Counterpart to Registration Rights Agreement  The undersigned hereby
+absolutely, unconditionally and irrevocably agrees as a Guarantor (as defined in the Registration Rights Agreement, dated as of November 30, 2009 by and among the Company, a Delaware corporation, and J.P. Morgan Securities Inc., on behalf of
+itself and the other Initial Purchasers) to be bound by the terms and provisions of such Registration Rights Agreement.  IN
+WITNESS WHEREOF, the undersigned has executed this counterpart as of [            ], 2009.   
+
+
+
+
+
+
+[NAME]
+
+
+
+
+By:
+ 
+  
+
+
+ 
+Name:
+
+
+ 
+Title:
+
