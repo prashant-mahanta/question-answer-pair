@@ -9,18 +9,15 @@ Prerequisites
 - NLTK
 - SpaCy
 - NumPy
+- BeautifulSoup
 ```
 
 ## Quickstart
-### Run a sentence
-```
-python main.py --> inputText = "My best friend and I have been studying in the same school since kindergarten."
-```
 
 ### Run a textfile
 ```
-python main.py --> inputText = filePATH
-                   Like: inputText = "E:/EDU/Study/FinalProject/NLPio/in.txt"
+python main.py 
+
 ```
 
 
@@ -37,43 +34,58 @@ without ever belittling me. I greatly appreciate the quality in her. She does no
 
 ### output:
 ```
-Q-01: Have you been classmates each year?
-Q-02: Have you been at school?
+Q-01: Who have been studying in the same school since kindergarten?
+Ans: My best friend and I have been studying in the same school since kindergarten
+----------
+Q-02: What have you been at school?
+Ans:  We have been classmates each year at  school
+----------
 Q-03: Who have been classmates each year at school?
-Q-04: Who cherish and treasure?
-Q-05: Who helps me?
-Q-06: Who is good at English?
-Q-07: Who helps me without ever belittling me?
-Q-08: Who ever belittling me?
-Q-09: Who greatly appreciate the quality in her?
-Q-10: Whom she does not make feel obliged?
+Ans:  We have been classmates each year at  school
+----------
+Q-04: Who have a special friendship that you cherish and treasure?
+Ans:  We share a very close bond and have a special friendship that we cherish and treasure
+----------
+Q-05: Who cherish and treasure?
+Ans:  We share a very close bond and have a special friendship that we cherish and treasure
+----------
 ```
  
 # Main Function
 ## main.py
 ```python
-    # Main Function
-    def main():
-        # Create AQG object
-        aqg = aqgFunction.AutomaticQuestionGenerator()
+  def main():
 
-        # Enter input Text File PATH
-        inputTextPath = "PATH: (Like:- E:/in.txt)"
-        readFile = open(inputTextPath, 'r+')
-        inputText = readFile.read()
+      # Create AQG object
+      aqg = aqgFunction.AutomaticQuestionGenerator()
 
-        questionList = aqg.aqgParse(inputText)
-        aqg.display(questionList)
+      # store your content into ./DB/db.txt file
+      # Use the function getContentFromFile
+      inputTextPath = "./DB/db.txt"
+      readFile = open(inputTextPath, 'r+', encoding="utf8")
 
-        return 0
+      inputText = readFile.read()
+      #inputText = '''I am Dipta. I love codding. I build my carrier with this.'''
+
+      questionList = aqg.aqgParse(inputText)
+      # print(questionList)
+      aqg.display(questionList)
+
+      return 0
 
 
-    # Call Main Function
-    if __name__ == "__main__":
-        main()
+  # Call Main Function
+  if __name__ == "__main__":
+      main()
  
 ```
 
 
 |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
 ===================================================================================================
+
+
+## Reference (Code taken from): [Here](https://github.com/dipta1010/Automatic-Question-Generator)
+
+### Other References
+Automatic question generation by using NLP : [Here](https://github.com/indrajithi/genquest)
